@@ -1,0 +1,149 @@
+header {
+    background-color: crimson;
+    color: white;
+    border: 2px solid black;
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+nav{
+    list-style: none;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+}
+
+nav {
+    background-color: blueviolet;
+    color: white;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+nav ul li a{
+    color: whitesmoke;
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 0 30px;
+}
+
+nav ul li a:hover {
+    background-color: rgba(13, 13, 22, 0.836);
+    color: white;
+    padding: auto;
+}
+
+aside {
+    background-color: rgb(43, 22, 63);
+    border: 2px solid  rgb(0, 0, 0);
+    color: whitesmoke;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 70px;
+}
+
+@media (max-width: 576px ) {
+    aside {
+        display: none;
+    }
+}
+
+#obj1 {
+    background-color: blanchedalmond;
+    color: black;
+    border: 2px solid black;
+    text-align: center;
+}
+
+#obj2 {
+    background-color: rgb(34, 34, 73);
+    color: white;
+    border: 2px solid black;
+    text-align: center;
+}
+
+#obje1 {
+    background-color: blue;
+    border: 2px solid black;
+    text-align: center;
+    color: white;
+}
+
+#obje2 {
+    background-color: blue;
+    border: 2px solid black;
+    text-align: center;
+    color: white;
+}
+
+#obje3 {
+    background-color: blue;
+    border: 2px solid black;
+    text-align: center;
+    color: white;
+}
+
+#obje4 {
+    background-color: blue;
+    border: 2px solid black;
+    text-align: center;
+    color: white;
+}
+
+#obje5 {
+    background-color: blue;
+    border: 2px solid black;
+    text-align: center;
+    color: white;
+}
+
+#obje6 {
+    background-color: blue;
+    border: 2px solid black;
+    text-align: center;
+    color: white;
+}
+
+#obje7 {
+    background-color: blue;
+    border: 2px solid black;
+    text-align: center;
+    color: white;
+}
+
+#obje8 {
+    background-color: blue;
+    border: 2px solid black;
+    text-align: center;
+    color: white;
+}
+
+#obje9 {
+    background-color: blue;
+    border: 2px solid black;
+    text-align: center;
+    color: white;
+}
+
+#obje10 {
+    background-color: blue;
+    border: 2px solid black;
+    text-align: center;
+    color: white;
+}
+
+footer {
+    background-color: rgb(37, 73, 75);
+    border: 2px solid black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
