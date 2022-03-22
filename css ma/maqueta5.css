@@ -1,3 +1,8 @@
+/*CSS de la Maqueta 5
+Autor:Cristian Quevedo
+Ficha:2470980
+Instructor:Jorge Orlando*/
+
 header {
     background-color: crimson;
     color: white;
@@ -49,6 +54,8 @@ aside {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 70px;
 }
+
+/*Modificación del aside (desaparece cuando llega a un tamaño)*/
 
 @media (max-width: 576px ) {
     aside {
