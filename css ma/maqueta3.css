@@ -1,0 +1,64 @@
+
+header {
+    background-color: rgb(0, 55, 100);
+    margin-top: 10px;
+    padding: 20px;
+    border: 2px solid black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    text-align: center;
+    color: whitesmoke;
+}
+
+#objeto1 {
+    padding: 150px;
+    flex: auto;
+    background-color: rgb(34, 59, 59);
+    border: 2px solid rgb(0, 0, 0);
+    color: whitesmoke;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+
+#objeto2 {
+    padding: 150px;
+    flex: auto;
+    background-color: rgb(58, 8, 4);
+    border: 2px solid rgb(0, 0, 0);
+    color: whitesmoke;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+
+#objeto3 {
+    padding: 150px;
+    flex: auto;
+    background-color: rgb(50, 13, 61);
+    border: 2px solid rgb(0, 0, 0);
+    color: whitesmoke;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+
+footer {
+    padding: 10px;
+    background-color: rgb(18, 18, 58);
+    border: 2px solid black;
+    color: whitesmoke;
+    text-align: center;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#footer {
+    padding: 10px;
+    background-color: rgb(18, 18, 58);
+    border: 2px solid black;
+    color: whitesmoke;
+    text-align: center;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

@@ -1,4 +1,3 @@
-# Maquetacion
-Maquetación bootstrap 5
-Repositorio trabajos bootstrap
-Cristian Sánchez
+# RepositorioC
+Repositorio de Cristian 
+Rama de Maquetación 
