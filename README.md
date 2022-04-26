@@ -29,3 +29,8 @@
 Maqueta en tamaño Largo
 <br />
 <img src="https://user-images.githubusercontent.com/102183213/159593255-0a48e821-5f20-4008-926b-033b12fd4e2e.png">
+<br />
+Maqueta en tamaño pequeño
+<br />
+<img src="https://user-images.githubusercontent.com/102183213/165395857-42e74b7c-1d4e-4840-a0a5-ed606348f5a4.png">
+
