@@ -1,3 +1,1 @@
-# RepositorioC
-Repositorio de Cristian 
-Rama de Maquetación 
+# Al ejecutar el código fuente de cada maqueta, es recomendable usar Google
