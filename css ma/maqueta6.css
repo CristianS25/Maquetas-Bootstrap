@@ -69,17 +69,7 @@ nav ul li:hover::before{
     height: 100%;
 }
 
-#img2 {
+.imgs {
     width: 100%;
-    height: 100%;
-}
-
-#img3 {
-    width: 100%;
-    height: 100%;
-}
-
-#img4 {
-    width: 100%;
-    height: 100%;
+    height: 100px;
 }
